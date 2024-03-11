@@ -1,0 +1,6 @@
+conf/.env
+.env
+app
+/files
+.lh
+/.idea/*
