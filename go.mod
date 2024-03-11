@@ -1,3 +1,3 @@
-module github.com/axelx/testmod/v2
+module github.com/axelx/testmod
 
 go 1.20
